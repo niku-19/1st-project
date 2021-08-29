@@ -1,0 +1,18 @@
+
+div#navbarSupportedContent {
+    padding: 0px 343px 0px 40px;
+}
+.form-control {
+    width: 31em;
+}
+.top{
+    border-top:5px solid rgb(5, 5, 5) ;
+    height: 60px;
+    width: 100%;
+    background-color: blue;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
